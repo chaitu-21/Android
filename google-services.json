@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768061389378",
+    "project_id": "lakshy-public-eye",
+    "storage_bucket": "lakshy-public-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768061389378:android:5d3592ee52a6d656920bdb",
+        "android_client_info": {
+          "package_name": "com.example.lakshyaapubliceyeapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768061389378-9ln06smr3oitu3h2hdbo3j41d5gljtph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYeXBbT9uLF0kLtdFRgbjlZbcfgByJdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768061389378-9ln06smr3oitu3h2hdbo3j41d5gljtph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
